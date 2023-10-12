@@ -1,0 +1,44 @@
+{
+    "Course_Detail":[
+    {
+        "serialno": "1",
+    "date": "20/03/2023",  
+    "time":"1hr",  
+    "courseID": "3425",
+    "coursetittle": "Advanced English",
+    "credithours": "3",
+    "amount": "30,000 PKR",
+    "registeredby": "Admin"
+    },
+    {
+        "serialno": "2",
+        "date": "20/03/2023",
+        "time":"1hr",    
+        "courseID": "3427",
+        "coursetittle": "Programming Fundamentals",
+        "credithours": "3",
+        "amount": "60,000 PKR",
+        "registeredby": "Admin"
+    },
+    {
+        "serialno": "3",
+        "date": "20/03/2023",
+        "time":"1hr",    
+        "courseID": "3428",
+        "coursetittle": "Web Development Application",
+        "credithours": "3",
+        "amount": "50,000 PKR",
+        "registeredby": "Admin"
+    },
+    {
+        "serialno": "4",
+        "date": "20/03/2023",
+        "time":"1hr",    
+        "courseID": "3429",
+        "coursetittle": "Calculus 2",
+        "credithours": "3",
+        "amount": "20,000 PKR",
+        "registeredby": "Admin"
+    }
+    
+    ]}
